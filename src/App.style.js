@@ -15,4 +15,7 @@ gap: 1.5rem;
 
 `
 export const StatusMensagem =styled.p`
+text-align: center;
+margin-top: 3rem;
+font-size: 1.2rem;
 `
