@@ -9,6 +9,9 @@ margin: auto;
 `;
 
 export const Grid = styled.div`
+display: grid;
+grid-template-columns: repeat(auto-fill,minmax(200px, ifr));
+gap: 1.5rem;
 
 `
 export const StatusMensagem =styled.p`
